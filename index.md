@@ -12,3 +12,9 @@
 ``` javascript
 var Var1 = "Hello Programmers !";
 ```
+
+
+- [x] Turn on GitHub Pages
+- [x] Outline my Interests
+- [ ] Introduce myself to the world
+- [ ] Code snippet in JavaScript
