@@ -7,3 +7,8 @@
 
 
 ![Image of Computer Coding](https://freerangestock.com/sample/113049/coding-and-programming--computer-science-and-it.jpg)
+
+
+``` javascript
+var Var1 = "Hello Programmers !";
+```
